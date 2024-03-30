@@ -7,8 +7,5 @@ The course starts by looking at how the human visual system works and then teach
  
 This course consists of 7 basic modules and 2 bonus (non-graded) modules. There are optional MATLAB exercises; learners will have access to MATLAB Online for the course duration. Each module is independent, so you can follow your interests.
 
-
- Show less
-Guillermo Sapiro
 Taught by:Guillermo Sapiro, Professor
 Electrical and Computer Engineering
